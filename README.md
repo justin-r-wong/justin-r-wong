@@ -13,7 +13,7 @@
 
 ### Projects <br /> 
 [**Predicting A Garment Factory's Productivity**](https://github.com/justin-r-wong/garment-factory-project)
-- LASSO and Forward Selection models in R to forecast garment factory productivity, with tidyverse, broom, glmnet, dplyr, and ggplot2 for robust analysis.
+- Engineered LASSO and Forward Selection models in R to forecast garment factory productivity, with tidyverse, broom, glmnet, dplyr, and ggplot2 for robust analysis.
 - Established a reproducible data workflow with Docker, Dockerhub, Git, Github, Github actions, and Unix, ensuring seamless collaboration and version control.
 - Developed a [R-package](https://github.com/justin-r-wong/garment-factory-pkg) using Github devtools, enhancing accessibility and usability of custom analytics tools.
 
