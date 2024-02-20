@@ -1,5 +1,5 @@
 ## Hi, I'm Justin Wong
-### UBC Vancouver - Statistics Major with Minor in Data Science
+### UBC Vancouver - Statistics & Data Science
 
 ### Skills
 **Languages:** Python, R, SQL, Java, C++
