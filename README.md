@@ -1,11 +1,11 @@
 ## Hi, I'm Justin Wong
 ### UBC Vancouver - Statistics Major with Minor in Data Science
 
-🤹Languages: Python, R, SQL, Java, C++
+**Languages:** Python, R, SQL, Java, C++
 
-💻Tools/Frameworks: Pandas, tidyverse, scikit-learn, Git, Github, Docker, Dockerhub, Google Big Query, GCP, AWS
+**Tools/Frameworks:** Pandas, tidyverse, scikit-learn, Git, Github, Docker, Dockerhub, Google Big Query, GCP, AWS
 
-👔Work Experience <br /> 
+**Work Experience** <br /> 
 - **Data Analytics Coordinator** @ UBC Thunderbirds Baseball (Jan 2022 - Present)
 - **Data Science and Machine Learning Intern** @ Major League Baseball (Jun 2023 - Sep 2023)
 - **Research and Data Intern** @ Resource Global (Apr 2021 - Present)
