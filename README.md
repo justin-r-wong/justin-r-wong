@@ -17,13 +17,13 @@
 - Established a reproducible data workflow with Docker, Dockerhub, Git, Github, Github actions, and Unix, ensuring seamless collaboration and version control.
 - Developed a [R-package](https://github.com/justin-r-wong/garment-factory-pkg) using Github devtools, enhancing accessibility and usability of custom analytics tools.
 
-[**Comparing Alcohol Content in Red and White Wines**]([https://link-url-here.org](https://github.com/justin-r-wong/wine-analysis-project))
+[**Comparing Alcohol Content in Red and White Wines**](https://github.com/justin-r-wong/wine-analysis-project)
 - Deployed statistical methodologies including hypothesis testing and bootstrapping to analyze alcohol content data in R, utilizing tidyverse, tidymodels, GGally, dplyr, and ggplot2.
 
 [**Predicting Hotel Reservation Cancellations**](https://github.com/justin-r-wong/hotel-reservation-project)
 - Forecasted reservation cancellations by evaluating machine learning models in Python, leveraging pandas, numpy, scikit-learn, XGBoost, LightGBM, seaborn, and matplotlib for comprehensive analysis and visualization.
   
-[**Comparing Alcohol Content in Red and White Wines**](https://github.com/justin-r-wong/MLB-Home_Run-Predictions-Project)
+[**Predicting 2024 MLB Home Runs**](https://github.com/justin-r-wong/MLB-Home_Run-Predictions-Project)
 - Predicted MLB home runs by evaluating machine learning models in Python using pandas, numpy, scikit-learn, XGBoost, LightGBM, seaborn, matplotlib for comprehensive analysis and visualization.
   
 
