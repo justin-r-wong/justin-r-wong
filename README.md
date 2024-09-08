@@ -1,9 +1,13 @@
 ## Hi, I'm Justin Wong
 
 ### Skills
-**Languages:** Python, R, SQL, Java, C++
-
-**Tools/Frameworks:** Pandas, tidyverse, scikit-learn, Git, Github, Docker, Dockerhub, Google Big Query, GCP, AWS
+**Programming Languages:** Python, R, SQL, Java, C++, PHP
+**Libraries (Python):** Pandas, NumPy, Matplotlib, seaborn, scikit-learn, XGBoost, LightGBM, Vega-Altair, streamlit
+**Libraries (R):** tidyverse, dplyr, ggplot2, caret, randomForest, tidymodels, knitr
+**Databases:** Google Big Query, Google Cloud Platforms (GCP), Amazon Web Services (AWS), Snowflake, Oracle
+**Data Visualization:** Microsoft Power Bi, Google Looker, Apache Superset, Tableau
+**Tools:** Git, Github, Docker, Dockerhub, Jupyter Notebook, Microsoft Office Suite, Google Drive Suite, Unix, Agile
+**Soft Skills:** Time Management, Problem-Solving, Critical Thinking, Work Ethic, Organization, Communication
 
 ### Projects <br /> 
 [**Predicting A Garment Factory's Productivity**](https://github.com/justin-r-wong/garment-factory-project)
