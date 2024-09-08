@@ -1,20 +1,5 @@
 ## Hi, I'm Justin Wong
 
-### Skills
-**Programming Languages:** Python, R, SQL, Java, C++, PHP
-
-**Libraries (Python):** Pandas, NumPy, Matplotlib, seaborn, scikit-learn, XGBoost, LightGBM, Vega-Altair, streamlit
-
-**Libraries (R):** tidyverse, dplyr, ggplot2, caret, randomForest, tidymodels, knitr
-
-**Databases:** Google Big Query, Google Cloud Platforms (GCP), Amazon Web Services (AWS), Snowflake, Oracle
-
-**Data Visualization:** Microsoft Power Bi, Google Looker, Apache Superset, Tableau
-
-**Tools:** Git, Github, Docker, Dockerhub, Jupyter Notebook, Microsoft Office Suite, Google Drive Suite, Unix, Agile
-
-**Soft Skills:** Time Management, Problem-Solving, Critical Thinking, Work Ethic, Organization, Communication
-
 ### Projects <br /> 
 [**Predicting A Garment Factory's Productivity**](https://github.com/justin-r-wong/garment-factory-project)
 - Engineered LASSO and Forward Selection models in R to forecast garment factory productivity, with tidyverse, broom, glmnet, dplyr, and ggplot2 for robust analysis.
@@ -30,6 +15,21 @@
 [**Predicting 2024 MLB Home Runs**](https://github.com/justin-r-wong/MLB-Home_Run-Predictions-Project)
 - Predicted MLB home runs by evaluating machine learning models in Python using pandas, numpy, scikit-learn, XGBoost, LightGBM, seaborn, matplotlib for comprehensive analysis and visualization.
   
+### Skills
+**Programming Languages:** Python, R, SQL, Java, C++, PHP
+
+**Libraries (Python):** Pandas, NumPy, Matplotlib, seaborn, scikit-learn, XGBoost, LightGBM, Vega-Altair, streamlit
+
+**Libraries (R):** tidyverse, dplyr, ggplot2, caret, randomForest, tidymodels, knitr
+
+**Databases:** Google Big Query, Google Cloud Platforms (GCP), Amazon Web Services (AWS), Snowflake, Oracle
+
+**Data Visualization:** Microsoft Power Bi, Google Looker, Apache Superset, Tableau
+
+**Tools:** Git, Github, Docker, Dockerhub, Jupyter Notebook, Microsoft Office Suite, Google Drive Suite, Unix, Agile
+
+**Soft Skills:** Time Management, Problem-Solving, Critical Thinking, Work Ethic, Organization, Communication
+
 
 Feel free to reach out to me for opportunities and interests!
 
